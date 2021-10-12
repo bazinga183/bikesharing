@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to determine whether or not a bike riding business would be a proper fit within the city of Des Moines, Iowa using data from NYC's [Citibike data](https://ride.citibikenyc.com/system-data#:~:text=The%20data%20includes%3A%201%20Trip%20Duration%20%28seconds%29%202,10%20Gender%20%28Zero%3Dunknown%3B%201%3Dmale%3B%202%3Dfemale%29%20More%20items...%20). I will be using the data from Citibike to disect: the total number of bikes and their usages as well as how these bike usages break down by gender. This is done with the purpose of demonstrating this current research to pave the way for future research that will be needed for Des Moines to know if this project is feasible and more imporantly, profitable.
 
-This project directly utilizes a story created using Tableau. It features a series of 7 visualizations that will be explained here.
+This project directly utilizes a story created using Tableau. It features a series of 7 visualizations that will be explained [here](https://public.tableau.com/app/profile/eduardo.flores1791/viz/Book2_16337278155490/Challenge?publish=yes).
 
 ## Results:
 
